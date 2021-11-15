@@ -18,10 +18,11 @@ Meetings are intended to be held every two months. There are no fees to attend a
 
 
 ## Next meeting 
-10.30, 4 December 2021, Location to be confirmed
+> 10.30, 4 December 2021, Location to be confirmed
 
 ### Links
 https://github.com/DingoOz/BROSUG
+
 https://www.ros.org/
 
 
