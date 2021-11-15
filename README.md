@@ -10,6 +10,7 @@ The Brisbane ROS User Group (BROSUG) is open to anyone interesting in the use of
 The group focuses on the use of ROS (Robot Operating System) to create simulated and real world robots and robotic applications. ROS is open source software and used to solve real world problems. 
 
 ![PR2](https://user-images.githubusercontent.com/1388693/141838279-cbfe4cc2-ad4e-4f0a-8729-7f0ff82479bc.jpg)
+** Credit:  "PR2 at the Intelligent Autonomous Systems Group, Technischen Universität München" by jiuguangw is licensed under CC BY-SA 2.0
 
 ## Goals
 The goals of BROSUG include:
