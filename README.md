@@ -27,7 +27,7 @@ ROS is 100% open source and has been used accross industry for an increasing num
 
 ## Next meeting 
 Come join us for our next meeting:
-> 10.30am, Sunday 5 December 2021, Brisbane Square Library, Board Room
+> 10.30am, Sunday 5 December 2021, Brisbane Square Library, Board Room (Room 1.9 in the Development Lounge)
 
 
 ### Links
