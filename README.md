@@ -29,7 +29,9 @@ ROS is 100% open source and has been used accross industry for an increasing num
 Come join us for our next meeting:
 > 10.30am, Sunday 5 December 2021, Brisbane Square Library, Board Room (Room 1.9 in the Development Lounge)
 
-[Drawing1.pdf](https://github.com/DingoOz/BROSUG/files/7575737/Drawing1.pdf)
+[Download Meeting Flyer](https://github.com/DingoOz/BROSUG/files/7575737/Drawing1.pdf)
+
+
 
 
 ### Links
@@ -41,3 +43,4 @@ https://www.ros.org/
 
 
 
+![Drawing1](https://user-images.githubusercontent.com/1388693/142749681-835af710-bf1d-4bbf-abc4-e9b25ff723e1.jpg)
