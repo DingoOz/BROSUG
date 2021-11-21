@@ -29,6 +29,8 @@ ROS is 100% open source and has been used accross industry for an increasing num
 Come join us for our next meeting:
 > 10.30am, Sunday 5 December 2021, Brisbane Square Library, Board Room (Room 1.9 in the Development Lounge)
 
+[Drawing1.pdf](https://github.com/DingoOz/BROSUG/files/7575737/Drawing1.pdf)
+
 
 ### Links
 https://github.com/DingoOz/BROSUG
