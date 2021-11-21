@@ -31,7 +31,7 @@ Come join us for our next meeting:
 
 [Download Meeting Flyer](https://github.com/DingoOz/BROSUG/files/7575737/Drawing1.pdf)
 
-
+![Drawing1](https://user-images.githubusercontent.com/1388693/142749681-835af710-bf1d-4bbf-abc4-e9b25ff723e1.jpg)
 
 
 ### Links
@@ -43,4 +43,4 @@ https://www.ros.org/
 
 
 
-![Drawing1](https://user-images.githubusercontent.com/1388693/142749681-835af710-bf1d-4bbf-abc4-e9b25ff723e1.jpg)
+
